@@ -29,7 +29,15 @@ Einfache Demo mit Echo des Servers auf Anfrage des Clients.
 https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_socketsClientServer.ipynb)
 
 # Einfachere Sockets: ZeroMQ
-## ZeroMQ Request-Reply-Pattern
-Request-Reply-Pattern. Server startet vor Client.
+Etwas Besseres als das einfache Berkely-Sockets-Modell.
+
+## ZeroMQ Request-Reply-Pattern  
+Request-Reply-Pattern. 
+
+### Server startet vor Client  
 [![Öffnen in Binder](https://mybinder.org/badge_logo.svg)](
 https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_pyzmq_reqrepl.ipynb)
+
+### Client startet vor Server  
+[![Öffnen in Binder](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_pyzmq_reqrepl_clientfirst.ipynb)
