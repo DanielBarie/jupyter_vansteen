@@ -47,3 +47,7 @@ https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_py
 ### Ein Publisher, ein Subscriber
 [![Öffnen in Binder](https://mybinder.org/badge_logo.svg)](
 https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_pyzmq_pubsub.ipynb)
+
+### Ein Publisher, zwei Subscriber (einer davon late)
+[![Öffnen in Binder](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_pyzmq_pubsub_latesub.ipynb)
