@@ -41,3 +41,9 @@ https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_py
 ### Client startet vor Server  
 [![Öffnen in Binder](https://mybinder.org/badge_logo.svg)](
 https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_pyzmq_reqrepl_clientfirst.ipynb)
+
+## ZeroMQ Publish-Subscribe-Pattern
+
+### Ein Publisher, ein Subscriber
+[![Öffnen in Binder](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_pyzmq_pubsub.ipynb)
