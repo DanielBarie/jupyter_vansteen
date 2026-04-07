@@ -66,3 +66,8 @@ https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=mpi_demo_py
 Nicht ausführbar in Binder, weil dort im Container die MPI-Pakete fehlen.  
 [![Öffnen in Binder](https://mybinder.org/badge_logo.svg)](
 https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=mpi_notebook_exec.ipynb)
+
+## MPI-Demo Matrixmultiplikation
+Nicht ausführbar in Binder, weil dort im Container die MPI-Pakete fehlen.  
+[![Öffnen in Binder](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=mpi_matrixmultiplikation_notebook.ipynb)
