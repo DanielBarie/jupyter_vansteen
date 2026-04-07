@@ -5,7 +5,7 @@ Es ist einfach netter, den Code zum Ausführen und Demonstrieren zu haben, als i
 Voraussetzungen:
 
 ```
-pip install numpy matplotlib ipywidgets pandas
+pip install numpy mpi4py impi-rt
 ```
 Optional: 
 ```
