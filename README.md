@@ -55,3 +55,9 @@ https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_py
 ## ZeroMQ Pipeline Pattern
 [![Öffnen in Binder](https://mybinder.org/badge_logo.svg)](
 https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_pyzmq_pipeline.ipynb)
+
+# MPI
+
+## einfache MPI-Demo
+[![Öffnen in Binder](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=mpi_demo_python.ipynb)
