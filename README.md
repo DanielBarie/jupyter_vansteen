@@ -58,6 +58,11 @@ https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_py
 
 # MPI
 
-## einfache MPI-Demo
+## Einfache MPI-Demo
 [![Öffnen in Binder](https://mybinder.org/badge_logo.svg)](
 https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=mpi_demo_python.ipynb)
+
+## Einfache MPI-Demo mit Ausführung im Notebook
+Nicht ausführbar in Binder, weil dort im Container die MPI-Pakete fehlen.
+[![Öffnen in Binder](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=mpi_notebook_exec.ipynb)
