@@ -1,5 +1,5 @@
 jupyterlab>=4.0
 pyzmq
 mpi4py
-ipmi-rt
+impi-rt
 numpy
