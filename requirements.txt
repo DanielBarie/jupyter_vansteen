@@ -1,1 +1,2 @@
 jupyterlab>=4.0
+pyzmq
