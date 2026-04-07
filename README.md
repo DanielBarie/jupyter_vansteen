@@ -26,5 +26,10 @@ Dann Notebook öffnen und Code ausführen.
 Einfache Demo mit Echo des Servers auf Anfrage des Clients.
 
 [![Öffnen in Binder](https://mybinder.org/badge_logo.svg)](
-https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_socketsClientServer.ipynb
-)
+https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_socketsClientServer.ipynb)
+
+# Einfachere Sockets: ZeroMQ
+## ZeroMQ Request-Reply-Pattern
+Request-Reply-Pattern. Server startet vor Client.
+[![Öffnen in Binder](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/DanielBarie/jupyter_vansteen/main?labpath=vansteen_pyzmq_reqrepl.ipynb)
